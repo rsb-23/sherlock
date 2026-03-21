@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
@@ -18,13 +17,12 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
