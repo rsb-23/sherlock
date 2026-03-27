@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Carbonmade
 Codolio
 GeeksforGeeks
 Giphy
@@ -10,7 +9,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -19,9 +17,11 @@ Scribd
 Shelf
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 mercadolivre
