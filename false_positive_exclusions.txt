@@ -1,8 +1,8 @@
 APClips
 Archive.org
-BoardGameGeek
 Codolio
 DigitalSpy
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -12,6 +12,7 @@ LushStories
 Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,7 +26,9 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
