@@ -28,7 +28,6 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 interpals
 mercadolivre
 nnRU
