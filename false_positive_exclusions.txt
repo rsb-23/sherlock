@@ -3,12 +3,12 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
@@ -25,13 +25,14 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
 TryHackMe
 Weblate
 YandexMusic
+dailykos
+eintracht
 interpals
 mercadolivre
 opennet
