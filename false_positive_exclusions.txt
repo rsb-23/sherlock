@@ -3,7 +3,6 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -29,10 +28,10 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
-eintracht
 interpals
 mercadolivre
 opennet
