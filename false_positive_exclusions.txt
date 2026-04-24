@@ -10,9 +10,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-LushStories
-Minecraft
+LessWrong
 Patched
 Rarible
 Realmeye
@@ -24,7 +22,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
