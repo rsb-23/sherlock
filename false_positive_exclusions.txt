@@ -6,15 +6,15 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-Minecraft
+LushStories
 Motherless
 Patched
 Pornhub
@@ -28,11 +28,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 dailykos
 igromania
