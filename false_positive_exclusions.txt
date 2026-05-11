@@ -12,9 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -31,6 +30,7 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 dailykos
 igromania
