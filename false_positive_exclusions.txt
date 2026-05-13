@@ -15,6 +15,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -37,6 +38,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
