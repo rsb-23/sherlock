@@ -5,13 +5,16 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -24,6 +27,8 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
+Trovo
 TryHackMe
 Velomania
 Weblate
