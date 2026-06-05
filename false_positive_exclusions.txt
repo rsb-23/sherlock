@@ -6,17 +6,18 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
+Carbonmade
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
+GitHub
 Hashnode
 Hubski
 LushStories
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -29,7 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
+Star Citizen
 TryHackMe
 Velomania
 Weblate
@@ -42,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
