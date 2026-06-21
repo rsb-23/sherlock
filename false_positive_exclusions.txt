@@ -12,10 +12,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
+LiveJournal
+LushStories
 Odysee
 Patched
 Pornhub
@@ -42,4 +43,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
