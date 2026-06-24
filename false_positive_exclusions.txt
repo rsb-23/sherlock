@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,9 +15,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Odysee
-OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -31,15 +29,14 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-hunting
 igromania
 interpals
 mercadolivre
