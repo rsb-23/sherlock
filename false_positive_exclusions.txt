@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,11 +18,14 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
+RedTube
 Reddit
 Replit.com
 RocketTube
@@ -35,6 +39,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+YouPorn
 authorSTREAM
 dailykos
 igromania
