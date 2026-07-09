@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -22,10 +22,8 @@ Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
-RedTube
 Reddit
 Replit.com
 RocketTube
@@ -39,7 +37,6 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
-YouPorn
 authorSTREAM
 dailykos
 igromania
