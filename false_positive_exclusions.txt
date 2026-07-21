@@ -1,11 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -18,9 +19,9 @@ LessWrong
 LinkedIn
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
