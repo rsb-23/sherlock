@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,6 +14,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
@@ -31,6 +31,7 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -39,8 +40,8 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
+YandexMusic
 authorSTREAM
 dailykos
 igromania
