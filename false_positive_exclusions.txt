@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -38,6 +39,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Typeracer
 Velomania
 Weblate
 YandexMusic
@@ -50,3 +52,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
