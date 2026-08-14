@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,6 +14,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -36,11 +36,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Typeracer
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -52,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
