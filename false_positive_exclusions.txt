@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,14 +7,14 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
-Cracked Forum
-Cults3D
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -36,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -51,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
