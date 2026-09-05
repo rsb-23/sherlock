@@ -7,6 +7,7 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -19,10 +20,10 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
+Odysee
 PCGamer
-Rarible
+Pornhub
 Realmeye
 Reddit
 ReverbNation
@@ -37,7 +38,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -48,4 +48,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
