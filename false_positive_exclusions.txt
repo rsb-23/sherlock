@@ -5,10 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,9 +19,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
+Lobsters
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -35,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
