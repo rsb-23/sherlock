@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -24,11 +24,9 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -40,6 +38,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -54,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
