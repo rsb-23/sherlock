@@ -11,12 +11,12 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
 LinkedIn
-LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
