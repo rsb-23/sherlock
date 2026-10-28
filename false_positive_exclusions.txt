@@ -9,12 +9,14 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LinkedIn
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +32,7 @@ Splice
 Spotify
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -38,6 +41,7 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
