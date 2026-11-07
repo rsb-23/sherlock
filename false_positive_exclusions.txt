@@ -6,6 +6,7 @@ Blogger
 Championat
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -14,7 +15,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LinkedIn
+LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -23,7 +26,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
