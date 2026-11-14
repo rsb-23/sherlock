@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -6,6 +5,7 @@ Archive.org
 Championat
 Chatujme.cz
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -24,13 +24,11 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Tenor
 Trakt
 TryHackMe
 Velomania
