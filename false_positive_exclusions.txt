@@ -1,8 +1,8 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -17,8 +17,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -27,12 +25,13 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+TikTok
 TryHackMe
 Velomania
 Vero
@@ -47,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
