@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-Championat
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -15,8 +14,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 LinkedIn
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -25,13 +26,12 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-TikTok
+Trakt
 TryHackMe
 Velomania
 Vero
