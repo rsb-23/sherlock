@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,8 +18,8 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
+Odysee
 PCGamer
 Rarible
 Realmeye
@@ -30,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
@@ -46,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
